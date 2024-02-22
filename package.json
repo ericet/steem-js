@@ -1,6 +1,6 @@
 {
   "name": "@ericet/steem-js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Steem.js the JavaScript API for Steem blockchain",
   "main": "lib/index.js",
   "scripts": {
@@ -28,9 +28,9 @@
   "author": "Fabien (https://github.com/bonustrack)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/steemit/steem-js/issues"
+    "url": "https://github.com/ericet/steem-js/issues"
   },
-  "homepage": "https://github.com/steemit/steem-js#readme",
+  "homepage": "https://github.com/ericet/steem-js#readme",
   "dependencies": {
     "@steemit/rpc-auth": "^1.1.1",
     "bigi": "^1.4.2",
